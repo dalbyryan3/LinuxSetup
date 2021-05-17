@@ -60,6 +60,8 @@ set number
 set ts=4 sw=4
 " Allow for switching between edited buffers
 set hidden
+" Turn off flashing/visual bell
+set belloff=all
 
 " Set switching time between modes and cursor modes, may have to do slightly
 " different based on os and terminal type
