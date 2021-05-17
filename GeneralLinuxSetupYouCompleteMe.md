@@ -65,6 +65,8 @@ set number
 set ts=4 sw=4
 " Allow for switching between edited buffers
 set hidden
+" Turn off flashing/visual bell
+set belloff=all
 
 " Add basic YCM config
 let g:ycm_global_ycm_extra_conf = '$USER/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp/ycm/.ycm_extra_conf.py'
