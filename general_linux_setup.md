@@ -45,6 +45,8 @@ Plugin 'https://tpope.io/vim/commentary.git'
 Plugin 'https://tpope.io/vim/sleuth.git'
 " One Dark theme
 Plugin 'https://github.com/joshdick/onedark.vim.git'
+" Fugitive for git integration
+Plugin 'https://tpope.io/vim/fugitive.git'
 
 call vundle#end()
 " Turn on file type detection, plugin, and indent
