@@ -64,7 +64,7 @@ set number
 set ts=4 sw=4
 " Allow for switching between edited buffers
 set hidden
-" Turn off flashing/visual bell
+" Turn off flashing/visual bell, may need newer Vim version (7.4+) so may need to comment out
 set belloff=all
 
 " Set switching time between modes and cursor modes, may have to do slightly
