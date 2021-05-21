@@ -56,6 +56,8 @@ filetype plugin indent on
 " General Vim setup:
 " Syntax highlighting
 syntax on
+" Color scheme
+colorscheme onedark
 " Set line numbers
 set number
 " Set tabs as spaces initially, sleuth will adjust based on file
